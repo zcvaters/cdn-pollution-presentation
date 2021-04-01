@@ -29,28 +29,49 @@
           data-separator-vertical="---"
         >
           <textarea data-template>
-            # Canadian Pollution Web Applicaiton
+            # Title Page
 
-            ### 2021-03-31
+            ### Date
+
+            -----
+            
+            Vertical slides are separated by `- - -`
+            
             ---
-
-            # Team Members
-            * Zach Vaters
-            * Logan Stone
-            * Hamzah Punjabi
+            
+            Vertical slides are separated by `- - -` .
+            
+            ---
+            
+            Vertical slides are separated by `- - -` ..
+     
+            -----
+            
+            # title
+            ## skills
+            * one
+            * two
+            * three
+            
+            ## heading
+            8. three
+            1. one
+            1. two
+         
             
             -----
-            # Introduction
-            ---
-            # Back Story
             
-            * We wanted to design something that could be used to inform others
-            
-            * Pollution is at the forefront of a lot of our media today
 
-            * After searching for data sets we stumbled upon the Canadian Governments data set
-            ---
-          
+            # Questions
+
+            -----
+
+            ## made with
+
+            #### [reveal.js](https://github.com/hakimel/reveal.js)
+
+            #### [excalidraw](https://github.com/excalidraw/excalidraw)
+
           </textarea>
         </section>
       </div>
